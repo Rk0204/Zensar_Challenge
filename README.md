@@ -19,6 +19,8 @@ The goal of this task was to fully implement the caching fetch library **without
 ```bash
 npm install
 npm start
+git checkout master
+git pull origin master
 ```
 
 Visit:
